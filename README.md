@@ -4,7 +4,7 @@ This project was generated with Angular version 12.2.10.
 
 ## CLone the Repository
 ```
-https://github.com/sibashish99/Restaurant-App.git
+https://github.com/chakilamsrikanth/Restaurant-App.git
 
 ```
 
